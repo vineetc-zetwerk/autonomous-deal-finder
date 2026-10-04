@@ -1,0 +1,15 @@
+# Local credentials and environment
+/.env
+/.venv/
+
+# Generated data, model index, charts, and run history
+/ensemble_outputs/
+/scanner/scanner_outputs/
+/rag/vector_db/
+/rag/outputs/
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
